@@ -27,7 +27,7 @@ const StudentCard = ({ name, course, status }) => {
 };
 
 export default StudentCard;
-[4/15, 6:42 PM] Varshini🦋: import React, { useState } from "react";
+import React, { useState } from "react";
 
 function StudentCard(props) {
   return (
